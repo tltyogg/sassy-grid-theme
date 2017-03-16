@@ -95,6 +95,6 @@ local.properties
 config.codekit
 .codekit-cache
 
-
+# SASS
 .sass-cache/
 *.css.map
